@@ -1,2 +1,2 @@
-# driver
-Issue tracker for Driver IntelliJ plugin
+# Driver
+This is the public issue tracker for the Driver IntelliJ plugin
